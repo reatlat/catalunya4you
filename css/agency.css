@@ -56,6 +56,14 @@ h6 {
     font-weight: 700;
 }
 
+red {
+    color: #FF0000;
+}
+.navbar-brand:hover > red,
+.navbar-brand:focus > red,
+.navbar-brand:active > red {
+    color: #f20000;
+}
 .img-centered {
     margin: 0 auto;
 }
