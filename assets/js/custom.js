@@ -244,7 +244,7 @@ if (onMobile === true) {
 ============================================= */
 $(".mailchimp-subscribe").ajaxChimp({
     callback: mailchimpCallback,
-    url: "http://xiveti.us4.list-manage.com/subscribe/post?u=ac3a7d30826b9d7d0f91998d5&amp;id=10cc39c30a" // Replace your mailchimp post url inside double quote "".
+    url: "http://catalunya4you.us12.list-manage.com/subscribe?u=efefa60031b7522cfb392d40e&id=358ae62621" // Replace your mailchimp post url inside double quote "".
 });
 
 function mailchimpCallback(resp) {
